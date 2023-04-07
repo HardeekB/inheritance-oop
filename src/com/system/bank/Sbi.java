@@ -1,4 +1,4 @@
-package com.bank.system.bank;
+package com.system.bank;
 
 public class Sbi extends Rbi {
     Rbi rbiRate = new Rbi();
