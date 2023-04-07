@@ -1,4 +1,4 @@
-package com.banksystem.bank;
+package com.bank.system.bank;
 
 public class Rbi {
     private final int repoRate = 6;

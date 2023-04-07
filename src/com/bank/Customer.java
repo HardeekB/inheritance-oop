@@ -1,6 +1,6 @@
-package com.banksystem;
+package com.bank;
 
-import com.banksystem.bank.Sbi;
+import com.bank.system.bank.Sbi;
 
 public class Customer extends Sbi {
     public static void main(String[] args) {
