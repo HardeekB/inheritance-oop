@@ -1,4 +1,4 @@
-package com.banksystem.main;
+package com.banksystem;
 
 import com.banksystem.bank.Sbi;
 
